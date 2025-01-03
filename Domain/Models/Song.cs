@@ -2,7 +2,7 @@
 
 public class Song
 {
-    private const int MAX_TITLE_LENGTH = 255;
+    public const int MAX_TITLE_LENGTH = 255;
     
     public Guid Id { get; }
     
