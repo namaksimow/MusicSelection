@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSelection", "MusicSele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{92406DC4-F5A0-41FB-83DF-150B3E5CD7BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{92406DC4-F5A0-41FB-83DF-150B3E5CD7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92406DC4-F5A0-41FB-83DF-150B3E5CD7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92406DC4-F5A0-41FB-83DF-150B3E5CD7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
