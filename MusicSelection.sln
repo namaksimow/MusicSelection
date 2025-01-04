@@ -6,6 +6,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6480FE2-E61D-4F28-BC23-D4DC7F0F8775}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{E2A5C058-8AB0-483F-B52B-7620D9812822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +31,9 @@ Global
 		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C1DD608-50B0-43F8-A3F8-1DE569102A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A5C058-8AB0-483F-B52B-7620D9812822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A5C058-8AB0-483F-B52B-7620D9812822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A5C058-8AB0-483F-B52B-7620D9812822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A5C058-8AB0-483F-B52B-7620D9812822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
